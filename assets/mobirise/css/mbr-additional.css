@@ -2930,66 +2930,7 @@ body {
 .cid-r75cr92Ozm {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-r75cFjObRe {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r75cFjObRe .counter-container {
-  color: #767676;
-}
-.cid-r75cFjObRe .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-r75cFjObRe .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-r75cFjObRe .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-r75cFjObRe .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-.cid-r75cD2zRB1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-r75cD2zRB1 .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-r75cD2zRB1 .section-text {
-  padding: 2rem 0;
-}
-.cid-r75cD2zRB1 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-r75cD2zRB1 .inner-container {
-    width: 100% !important;
-  }
+  background-image: url("../../../assets/images/xt1-2-2000x1333.jpg");
 }
 .cid-r75bNyBdFB {
   padding-top: 60px;
@@ -3028,6 +2969,32 @@ body {
 }
 .cid-r75bNyBdFB .card .panel-body {
   color: #767676;
+}
+.cid-r77fPiksxG .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-r77fPiksxG .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-r77fPiksxG .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-r77fPiksxG .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-r77fPiksxG .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-r75RCNwAPZ {
   padding-top: 30px;
@@ -3510,7 +3477,7 @@ body {
 .cid-r75Q2PlSRR {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/hiking-and-camera-gear-4-2000x1367.jpg");
 }
 .cid-r75PJKdEel {
   padding-top: 90px;
@@ -4012,7 +3979,7 @@ body {
 .cid-r75eV0WoNF {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/dictionary-2000x1333.jpg");
+  background-image: url("../../../assets/images/xpro2-1-2000x1333.jpg");
 }
 .cid-r75eVlvOnq {
   padding-top: 60px;
