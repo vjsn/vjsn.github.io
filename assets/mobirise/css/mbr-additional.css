@@ -1776,41 +1776,55 @@ body {
 .cid-r72g6I72Z1 {
   background-image: url("../../../assets/images/hiking-and-camera-gear-2000x1367.jpg");
 }
-.cid-r72g0jEiL9 {
+.cid-r779WEXGYr {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/x-series-2000x1333.jpg");
 }
-.cid-r72g0jEiL9 h3 {
-  font-weight: 300;
+@media (min-width: 992px) {
+  .cid-r779WEXGYr .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-r72g0jEiL9 .card-img {
-  width: initial;
+@media (max-width: 991px) {
+  .cid-r779WEXGYr .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-r72g0jEiL9 .card-img .mbr-iconfont {
-  font-size: 48px;
-  padding-right: 1rem;
+@media (max-width: 767px) {
+  .cid-r779WEXGYr .mbr-text {
+    text-align: center;
+  }
 }
-.cid-r72g0jEiL9 .media-container-row {
-  word-wrap: break-word;
-  padding-bottom: 2rem;
-  min-height: 100%;
+.cid-r779WEXGYr .mbr-text,
+.cid-r779WEXGYr .mbr-section-btn {
+  text-align: left;
 }
-.cid-r72g0jEiL9 .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
+.cid-r77bUzkATj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/x-series-2-2000x1500.jpg");
 }
-.cid-r72g0jEiL9 .mbr-section-subtitle {
-  color: #767676;
+.cid-r77bUzkATj .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-r72g0jEiL9 .mbr-text {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-r77bUzkATj .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
-.cid-r72g0jEiL9 .media-container-column {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
+@media (max-width: 991px) {
+  .cid-r77bUzkATj .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r77bUzkATj .mbr-text {
+    text-align: center;
+  }
 }
 .cid-r75Rwjy4C1 {
   padding-top: 30px;
